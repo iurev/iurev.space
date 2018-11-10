@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://iurev.space.org/"
 languageCode = "en-us"
 title = "vitalii iurev"
 theme = "hugo-cactus-theme"
