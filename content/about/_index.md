@@ -10,13 +10,14 @@ They made stable API which is easy to learn and apply in many different tasks.
 
 ## Projects
 
-- [Theme for VSCode](https://github.com/wwju/vscode-theme-c64)
-- [Content admin panel for RoR to edit i18n texts and images](https://github.com/wwju/edit_i18n_database_translations)
+- [Theme for VSCode](https://github.com/iurev/vscode-theme-c64)
+- [Content admin panel for RoR to edit i18n texts and images](https://github.com/iurev/edit_i18n_database_translations)
+- [postcss-inazuma](https://github.com/iurev/postcss-inazuma)
 
 ## Self-study
 
 - [Machine Learning](https://www.coursera.org/account/accomplishments/records/FRHXZVLKLKY8) – the author Andrew Ng reveals how ML works under the hood. He shows math behind it using simple explanations and graphical representations
-- [My notes](https://github.com/wwju/algorithm_design_manual) for the book [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
+- [My notes](https://github.com/iurev/algorithm_design_manual) for the book [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
 - My accounts on programming competition websites [codewars](codewars.com/users/wwju) and [hackerrank](hackerrank.com/wwjurew1). I highly recommend practicing algorithms on these websites.
   
 ## Favorite books
