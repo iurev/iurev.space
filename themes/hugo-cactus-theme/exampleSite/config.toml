@@ -1,15 +1,21 @@
-baseURL = "http://example.org/"
+# Site settings
+baseurl = "https://example.org/"
+themesDir = "../.."
 languageCode = "en-us"
-title = "vitalii iurev"
+title = "Hugo Cactus Theme"
 theme = "hugo-cactus-theme"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = "spf13"
 
 [params]
-	name = "vitalii iurev"
-	description = "software engineer"
-	bio = "software engineer"
+	name = "John Doe"
+	description = "Describe your website"
+	bio = "Blogger & Programmer"
 	# Enter optionally your twitter account
-	twitter = "wwjurew"
-	enableRSS = false
+	twitter = "Your Twitter account"
+	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
@@ -28,7 +34,7 @@ theme = "hugo-cactus-theme"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "software engineer"
+	aboutAuthor = "I'm an blogger."
 	tweet = ""
 	share = ""
 	# 404 page
@@ -42,5 +48,7 @@ theme = "hugo-cactus-theme"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/wwjurew"
-    github   = "https://www.github.com/wwju"
+    twitter  = "https://www.twitter.com/"
+    facebook = "https://www.facebook.com/"
+    github   = "https://www.github.com/"
+    dribble  = "https://www.dribbble.com/"
